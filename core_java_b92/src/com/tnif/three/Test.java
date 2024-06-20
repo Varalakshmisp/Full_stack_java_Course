@@ -1,4 +1,4 @@
-package com.tnif.dayone1;
+package com.tnif.three;
 
 public class Test {
 
